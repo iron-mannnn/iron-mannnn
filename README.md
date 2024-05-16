@@ -6,6 +6,6 @@
     
 
 <div style="width: 200px; height: 200px; background-color: tomato; margin-left: 40px; margin-top: 20px; border-radius: 10px;">
-        <img src="2.jpg" style= "border-radius: 20px;">
+        <img src="2.jpg" style= "border-radius: 20px; width: 200px; height: 200px;">
     </div>
 </body>
