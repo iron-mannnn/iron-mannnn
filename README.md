@@ -1,7 +1,7 @@
 <body style="background-color: #222; margin: 0; padding: 0;">
 
 <div style="width: auto; height: 130px; background-color: #f1f1f1;">
-        <img src="MERN.png" style="contain: content;">
+        <img src="1.png" style="contain: content;">
     </div>
     
 
