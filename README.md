@@ -1,4 +1,4 @@
-<body style="background-color: #222; margin: 0; padding: 0;">
+<body style="background-color: #fff; margin: 0; padding: 0;">
 
 <div style="width: auto; height: 130px; background-color: #f1f1f1;">
         <img src="1.png" style="contain: content;">
