@@ -6,7 +6,7 @@
     
 
 <div >
-        <img src="x.svg">
+        <img src="hero.svg">
     </div>
 </body>
 <!-- https://cloudconvert.com/pdf-to-png -->
