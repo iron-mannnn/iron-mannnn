@@ -1,16 +1,14 @@
 <body style=" margin: 0; padding: 0;">
 
 <div >
-        <img src="done1.svg" style = "">
-    </div>
-    
-
-<div >
-        <img src="hero1.svg">
+        <img src="banner.svg" style = "">
     </div>
 
 <div >
-        <img src="zyzzzz.svg">
+        <img src="aboutme.svg">
+    </div>
+
+<div >
+        <img src="skills.svg">
     </div>
 </body>
-<!-- https://cloudconvert.com/pdf-to-png -->
