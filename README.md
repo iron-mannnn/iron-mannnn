@@ -1,14 +1,19 @@
 <div>
-    <img src="assets/banner.svg" alt="Banner">
+<img width="10000" src="assets\banner.svg" alt="banner">
 </div>
 
 <div>
 <h2>About Me : </h2>
 
-<div style= "display: flex">
+<div  align= "justify" >
 
-<div width="50"style="width: 60%; text-align: justify;">
+<div>
+<img width="400"  align= "right" src="assets\coder.png" alt="banner" style= "margin-top:20px;">
+</div>
+
+
 <p>
+
 🚀 Aspiring MERN Stack Developer | Computer Science Engineering Graduate 🎓
 
 🌟 Eager to Kickstart my Professional Journey 🌟
@@ -21,11 +26,12 @@ I am enthusiastic about opportunities that offer room for growth and development
 
 Let's connect and explore how I can add value to your team and contribute to meaningful projects!
 
-<img  align='right' src="assets/coder.png" alt="Banner" style="width:400px;">
 </p>
-</div>
 
 </div>
+</div>
 
 
+<div>
+<h2>Technical Skills : </h2>
 </div>
