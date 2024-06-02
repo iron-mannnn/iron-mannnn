@@ -8,7 +8,7 @@
 <div style= "display: flex">
 
 <div style="width: 60%; text-align: justify;">
-<p>
+<p width="50">
 🚀 Aspiring MERN Stack Developer | Computer Science Engineering Graduate 🎓
 
 🌟 Eager to Kickstart my Professional Journey 🌟
