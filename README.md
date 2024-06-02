@@ -34,7 +34,7 @@ Let's connect and explore how I can add value to your team and contribute to mea
 
 
 <div style="width: 100px;">
-<div style="display: flex; gap: 10px; ">
+<div style="display: flex; gap: 20px; ">
  <img src="./assets/1.png" alt="Banner" style="width:70px; height:70px;">
  <img src="./assets/2.png" alt="Banner" style="width:70px; height:70px;">
  <img src="./assets/3.png" alt="Banner" style="width:70px; height:70px;">
