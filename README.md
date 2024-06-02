@@ -1,7 +1,7 @@
 <body>
 
 <div>
-    <img src="banner.svg" alt="Banner">
+    <img src="./assets/banner.svg" alt="Banner">
 </div>
 
 <div>
@@ -24,7 +24,7 @@ Let's connect and explore how I can add value to your team and contribute to mea
 </div>
 
 <div style="width: 400px; height: 400px; margin-top: 60px">
-    <img src="coder.png" alt="Coder">
+    <img src="./assets/coder.png" alt="Coder">
 </div>
 </div>
 </div>
