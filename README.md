@@ -19,4 +19,30 @@ where I can learn, grow, and make valuable contributions to impactful projects.
 
 <div>
 <h2>Technical Skills : </h2>
+
+<div>
+
+<div style="display: flex; gap: 10px; ">
+ <img src="./assets/1.png" alt="Banner" style="width:70px; height:70px;">
+ <img src="./assets/2.png" alt="Banner" style="width:70px; height:70px;">
+ <img src="./assets/3.png" alt="Banner" style="width:70px; height:70px;">
+ <img src="./assets/4.png" alt="" style="width:70px; height:70px;">
+ <img src="./assets/5.png" alt="" style="width:70px; height:70px;">
+ <img src="./assets/6.png" alt="" style="width:70px; height:70px;">
+ <img src="./assets/7.png" alt="" style="width:70px; height:70px;">
+ <img src="./assets/8.png" alt="" style="width:70px; height:70px;">
+ <img src="./assets/9.png" alt="" style="width:70px; height:70px;">
+ <img src="./assets/10.png" alt="" style="width:70px; height:70px;">
+ <img src="./assets/11.png" alt="" style="width:70px; height:70px;">
+ <img src="./assets/12.png" alt="" style="width:70px; height:70px;">
+ <img src="./assets/13.png" alt="" style="width:70px; height:70px;">
+ <img src="./assets/14.png" alt="" style="width:70px; height:70px;">
+ <img src="./assets/15.png" alt="" style="width:70px; height:70px;">
+ <img src="./assets/16.png" alt="" style="width:70px; height:70px;">
+ <img src="./assets/17.png" alt="" style="width:70px; height:70px;">
+</div>
+
+</div>
+
+
 </div>
