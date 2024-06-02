@@ -20,11 +20,9 @@ My academic background has equipped me with a solid foundation in programming an
 I am enthusiastic about opportunities that offer room for growth and development, where I can contribute meaningfully to projects that make a difference. I am committed to refining my skills, embracing new technologies, and honing my craft to become a proficient developer.
 
 Let's connect and explore how I can add value to your team and contribute to meaningful projects!
-</p>
-</div>
 
-<div>
-    <img  align='right' src="assets/coder.png" alt="Banner" style="width:400px;">
+<img  align='right' src="assets/coder.png" alt="Banner" style="width:400px;">
+</p>
 </div>
 
 </div>
