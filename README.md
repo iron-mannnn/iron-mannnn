@@ -1,5 +1,5 @@
 <div>
-<img src="assets\banner.svg" alt="banner">
+<img src="./assets/banner.svg" alt="banner">
 </div>
 
 <div>
