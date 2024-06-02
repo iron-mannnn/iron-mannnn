@@ -8,7 +8,7 @@
 <div  align= "justify" >
 
 <div>
-<img width="300"  align= "right" src="assets\coder.png" alt="banner" style= "margin-top:20px;">
+<img width="500"  align= "right" src="assets\coder.png" alt="banner" style= "margin-top:20px;">
 </div>
 
 
