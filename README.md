@@ -24,7 +24,7 @@ Let's connect and explore how I can add value to your team and contribute to mea
 </div>
 
 <div>
-    <img src="assets/coder.png" alt="Banner" style="width:400px;">
+    <img  align='right' src="assets/coder.png" alt="Banner" style="width:400px;">
 </div>
 
 </div>
