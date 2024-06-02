@@ -22,7 +22,7 @@ where I can learn, grow, and make valuable contributions to impactful projects.
 
 <div>
 
-<div style="display: flex; gap: 10px; ">
+<div style="display: flex; gap: 15px; ">
  <img src="./assets/1.png" alt="" style="width:50px; height:50px;">
  <img src="./assets/2.png" alt="" style="width:50px; height:50px;">
  <img src="./assets/3.png" alt="" style="width:50px; height:50px;">
