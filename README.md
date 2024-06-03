@@ -51,6 +51,31 @@ Let's connect and explore how I can add value to your team and contribute to mea
 </div>
 
 </div>
+</div>
 
+
+<div>
+
+<h2>Connect With Me : </h2>
+
+<div style="display: flex;">
+
+<a href="https://github.com/iron-mannnn" target="_blank">
+<img src="./assets/linkedin.png" alt="" style="width:42px; height:42px;">
+</a>
+
+<a href="https://github.com/iron-mannnn" target="_blank">
+<img src="./assets/x.png" alt="" style="width:42px; height:42px;">
+</a>
+
+<a href="https://github.com/iron-mannnn" target="_blank">
+<img src="./assets/instagram.png" alt="" style="width:42px; height:42px;">
+</a>
+
+<a href="https://github.com/iron-mannnn" target="_blank">
+<img src="./assets/dev.png" alt="" style="width:42px; height:42px;">
+</a>
+
+</div>
 
 </div>
