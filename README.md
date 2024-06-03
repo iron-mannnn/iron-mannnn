@@ -65,7 +65,7 @@ Let's connect and explore how I can add value to your team and contribute to mea
 </a>
 
 <a href="https://github.com/iron-mannnn" target="_blank">
-<img src="./assets/x.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/github.png" alt="" style="width:42px; height:42px;">
 </a>
 
 <a href="https://github.com/iron-mannnn" target="_blank">
@@ -73,7 +73,7 @@ Let's connect and explore how I can add value to your team and contribute to mea
 </a>
 
 <a href="https://github.com/iron-mannnn" target="_blank">
-<img src="./assets/dev.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/discord.png" alt="" style="width:42px; height:42px;">
 </a>
 
 </div>
