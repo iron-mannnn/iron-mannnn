@@ -1,6 +1,9 @@
+<!-- Banner -->
 <div>
 <img src="./assets/banner.svg" alt="banner">
 </div>
+
+<!-- About Me -->
 
 <div>
 
@@ -24,35 +27,38 @@ Let's connect and explore how I can add value to your team and contribute to mea
 
 </div>
 
+<!-- Technical Skills -->
 
 <div>
+
 <h2>Technical Skills : </h2>
 
-<div>
-
 <div style="display: flex;">
- <img src="./assets/1.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/2.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/3.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/4.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/5.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/6.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/7.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/8.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/9.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/10.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/11.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/12.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/13.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/14.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/15.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/16.png" alt="" style="width:42px; height:42px;">
- <img src="./assets/17.png" alt="" style="width:42px; height:42px;">
+
+<img src="./assets/1.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/2.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/3.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/4.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/5.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/6.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/7.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/8.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/9.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/10.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/11.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/12.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/13.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/14.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/15.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/16.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/17.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/18.png" alt="" style="width:42px; height:42px;">
+
 </div>
 
 </div>
-</div>
 
+<!-- Connect With Me -->
 
 <div>
 
@@ -64,7 +70,7 @@ Let's connect and explore how I can add value to your team and contribute to mea
 <img src="./assets/linkedin.png" alt="" style="width:42px; height:42px;">
 </a>
 
-<a href="https://github.com/iron-mannnn" target="_blank" style="padding:10px;">
+<a href="https://github.com/iron-mannnn" target="_blank" >
 <img src="./assets/github.png" alt="" style="width:42px; height:42px;">
 </a>
 
