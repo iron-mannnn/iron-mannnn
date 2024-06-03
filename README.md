@@ -66,15 +66,15 @@ Let's connect and explore how I can add value to your team and contribute to mea
 
 <div style="display: flex;">
 
-<a href="https://github.com/iron-mannnn" target="_blank" >
+<a href="https://github.com/iron-mannnn" target="_blank" style="text-decoration:none;">
 <img src="./assets/linkedin.png" alt="" style="width:42px; height:42px;">
 </a>
 
-<a href="https://github.com/iron-mannnn" target="_blank" >
+<a href="https://github.com/iron-mannnn" target="_blank" style="text-decoration:none;">
 <img src="./assets/github.png" alt="" style="width:42px; height:42px;">
 </a>
 
-<a href="https://github.com/iron-mannnn" target="_blank">
+<a href="https://github.com/iron-mannnn" target="_blank" style="text-decoration:none;">
 <img src="./assets/instagram.png" alt="" style="width:42px; height:42px;">
 </a>
 
