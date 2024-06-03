@@ -35,24 +35,24 @@ Let's connect and explore how I can add value to your team and contribute to mea
 
 <div style="display: flex;">
 
-<img src="./assets/1.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/2.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/3.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/4.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/5.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/6.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/7.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/8.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/9.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/10.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/11.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/12.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/13.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/14.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/15.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/16.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/17.png" alt="" style="width:42px; height:42px;">
-<img src="./assets/18.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/1.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/2.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/3.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/4.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/5.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/6.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/7.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/8.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/9.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/10.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/11.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/12.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/13.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/14.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/15.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/16.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/17.png" alt="" style="width:46px; height:46px;">
+<img src="./assets/18.png" alt="" style="width:46px; height:46px;">
 
 </div>
 
@@ -67,19 +67,19 @@ Let's connect and explore how I can add value to your team and contribute to mea
 <div style="display: flex;">
 
 <a href="https://github.com/iron-mannnn" target="_blank" style="text-decoration:none;">
-<img src="./assets/linkedin.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/linkedin.png" alt="" style="width:46px; height:46px;">
 </a>
 
 <a href="https://github.com/iron-mannnn" target="_blank" style="text-decoration:none;">
-<img src="./assets/github.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/github.png" alt="" style="width:46px; height:46px;">
 </a>
 
 <a href="https://github.com/iron-mannnn" target="_blank" style="text-decoration:none;">
-<img src="./assets/instagram.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/instagram.png" alt="" style="width:46px; height:46px;">
 </a>
 
 <a href="https://github.com/iron-mannnn" target="_blank" style="text-decoration:none;">
-<img src="./assets/discord.png" alt="" style="width:42px; height:42px;">
+<img src="./assets/discord.png" alt="" style="width:46px; height:46px;">
 </a>
 
 </div>
